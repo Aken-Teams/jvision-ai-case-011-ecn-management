@@ -1,13 +1,15 @@
-# 工程變更 ECN 管理平台
+# AI 工程變更管理
 
-管理變更申請、影響評估、簽核與版本追蹤。
+JVision Engineering Change Management 企業級互動儀表板。
 
-- 產業分類：製造與工程
-- Demo 類型：Jvision AI 互動式產業案例
-- 互動功能：流程看板、AI 風險建議、任務新增、完成狀態切換、本機狀態保存
+## 功能
 
-## Local preview
+- 即時 KPI 與營運趨勢
+- SVG 趨勢圖與狀態分布圖
+- 作業清單搜尋與狀態標示
+- 智慧告警與 AI 營運洞察
+- 響應式桌面／行動版介面
 
-```bash
-npm start
-```
+## 執行
+
+`npm start`
